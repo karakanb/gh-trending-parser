@@ -2,7 +2,7 @@ import test from 'ava';
 import parser from './index'
 import fs from 'fs';
 
-const sampleDataPath = './test_content/hn.html'
+const sampleDataPath = './test_content/gh.html'
 const expectedOutputPath = './test_content/expected_output.json'
 
 test('sync-parse', t => {
