@@ -1,0 +1,302 @@
+[
+  {
+    "repo": {
+      "rawName": "InterviewMap / InterviewMap",
+      "owner": "InterviewMap",
+      "name": "InterviewMap",
+      "link": "/InterviewMap/InterviewMap"
+    },
+    "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.",
+    "stars": 3897,
+    "forks": 382,
+    "todayStars": 652
+  },
+  {
+    "repo": {
+      "rawName": "donnemartin / system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "link": "/donnemartin/system-design-primer"
+    },
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "stars": 35648,
+    "forks": 4503,
+    "todayStars": 521
+  },
+  {
+    "repo": {
+      "rawName": "chubin / cheat.sh",
+      "owner": "chubin",
+      "name": "cheat.sh",
+      "link": "/chubin/cheat.sh"
+    },
+    "description": "the only cheat sheet you need",
+    "stars": 9503,
+    "forks": 347,
+    "todayStars": 359
+  },
+  {
+    "repo": {
+      "rawName": "phobal / ivideo",
+      "owner": "phobal",
+      "name": "ivideo",
+      "link": "/phobal/ivideo"
+    },
+    "description": "一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform",
+    "stars": 7005,
+    "forks": 1895,
+    "todayStars": 309
+  },
+  {
+    "repo": {
+      "rawName": "chrislgarry / Apollo-11",
+      "owner": "chrislgarry",
+      "name": "Apollo-11",
+      "link": "/chrislgarry/Apollo-11"
+    },
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "stars": 27355,
+    "forks": 3563,
+    "todayStars": 312
+  },
+  {
+    "repo": {
+      "rawName": "techbanca / coinai",
+      "owner": "techbanca",
+      "name": "coinai",
+      "link": "/techbanca/coinai"
+    },
+    "description": "Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community",
+    "stars": 134,
+    "forks": 859,
+    "todayStars": 113
+  },
+  {
+    "repo": {
+      "rawName": "hasura / graphql-engine",
+      "owner": "hasura",
+      "name": "graphql-engine",
+      "link": "/hasura/graphql-engine"
+    },
+    "description": "Blazing fast, instant GraphQL APIs on Postgres with fine grained access control",
+    "stars": 2229,
+    "forks": 54,
+    "todayStars": 250
+  },
+  {
+    "repo": {
+      "rawName": "imbrn / v8n",
+      "owner": "imbrn",
+      "name": "v8n",
+      "link": "/imbrn/v8n"
+    },
+    "description": "☑️ JavaScript fluent validation library.",
+    "stars": 1148,
+    "forks": 22,
+    "todayStars": 244
+  },
+  {
+    "repo": {
+      "rawName": "adam-golab / react-developer-roadmap",
+      "owner": "adam-golab",
+      "name": "react-developer-roadmap",
+      "link": "/adam-golab/react-developer-roadmap"
+    },
+    "description": "Roadmap to becoming a React developer in 2018",
+    "stars": 7171,
+    "forks": 547,
+    "todayStars": 171
+  },
+  {
+    "repo": {
+      "rawName": "quantumlib / Cirq",
+      "owner": "quantumlib",
+      "name": "Cirq",
+      "link": "/quantumlib/Cirq"
+    },
+    "description": "A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+    "stars": 203,
+    "forks": 13,
+    "todayStars": 169
+  },
+  {
+    "repo": {
+      "rawName": "jdkato / prose",
+      "owner": "jdkato",
+      "name": "prose",
+      "link": "/jdkato/prose"
+    },
+    "description": "📖 A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.",
+    "stars": 1354,
+    "forks": 53,
+    "todayStars": 173
+  },
+  {
+    "repo": {
+      "rawName": "tensorflow / tensorflow",
+      "owner": "tensorflow",
+      "name": "tensorflow",
+      "link": "/tensorflow/tensorflow"
+    },
+    "description": "Computation using data flow graphs for scalable machine learning",
+    "stars": 105371,
+    "forks": 65553,
+    "todayStars": 131
+  },
+  {
+    "repo": {
+      "rawName": "toddmotto / public-apis",
+      "owner": "toddmotto",
+      "name": "public-apis",
+      "link": "/toddmotto/public-apis"
+    },
+    "description": "A collective list of public JSON APIs for use in web development.",
+    "stars": 39948,
+    "forks": 3949,
+    "todayStars": 156
+  },
+  {
+    "repo": {
+      "rawName": "jasperapp / jasper",
+      "owner": "jasperapp",
+      "name": "jasper",
+      "link": "/jasperapp/jasper"
+    },
+    "description": "Jasper - A flexible and powerful issue reader for GitHub",
+    "stars": 641,
+    "forks": 17,
+    "todayStars": 155
+  },
+  {
+    "repo": {
+      "rawName": "vuejs / vue",
+      "owner": "vuejs",
+      "name": "vue",
+      "link": "/vuejs/vue"
+    },
+    "description": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "stars": 107927,
+    "forks": 15055,
+    "todayStars": 141
+  },
+  {
+    "repo": {
+      "rawName": "CyC2018 / Interview-Notebook",
+      "owner": "CyC2018",
+      "name": "Interview-Notebook",
+      "link": "/CyC2018/Interview-Notebook"
+    },
+    "description": "📆 准备秋招学习笔记",
+    "stars": 28741,
+    "forks": 8153,
+    "todayStars": 127
+  },
+  {
+    "repo": {
+      "rawName": "ansible / ansible-jupyter-kernel",
+      "owner": "ansible",
+      "name": "ansible-jupyter-kernel",
+      "link": "/ansible/ansible-jupyter-kernel"
+    },
+    "description": "Jupyter Notebook Kernel for running Ansible Tasks and Playbooks",
+    "stars": 188,
+    "forks": 8,
+    "todayStars": 144
+  },
+  {
+    "repo": {
+      "rawName": "flutter / flutter",
+      "owner": "flutter",
+      "name": "flutter",
+      "link": "/flutter/flutter"
+    },
+    "description": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "stars": 32762,
+    "forks": 2988,
+    "todayStars": 135
+  },
+  {
+    "repo": {
+      "rawName": "crossoverJie / Java-Interview",
+      "owner": "crossoverJie",
+      "name": "Java-Interview",
+      "link": "/crossoverJie/Java-Interview"
+    },
+    "description": "👨‍🎓 Java related : basic, concurrent, algorithm",
+    "stars": 6824,
+    "forks": 1624,
+    "todayStars": 115
+  },
+  {
+    "repo": {
+      "rawName": "PanJiaChen / vue-element-admin",
+      "owner": "PanJiaChen",
+      "name": "vue-element-admin",
+      "link": "/PanJiaChen/vue-element-admin"
+    },
+    "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin",
+    "stars": 16325,
+    "forks": 4887,
+    "todayStars": 112
+  },
+  {
+    "repo": {
+      "rawName": "alecthomas / participle",
+      "owner": "alecthomas",
+      "name": "participle",
+      "link": "/alecthomas/participle"
+    },
+    "description": "A parser library for Go",
+    "stars": 792,
+    "forks": 30,
+    "todayStars": 120
+  },
+  {
+    "repo": {
+      "rawName": "gothinkster / realworld",
+      "owner": "gothinkster",
+      "name": "realworld",
+      "link": "/gothinkster/realworld"
+    },
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "stars": 17348,
+    "forks": 1064,
+    "todayStars": 116
+  },
+  {
+    "repo": {
+      "rawName": "alidcastano / rogue.js",
+      "owner": "alidcastano",
+      "name": "rogue.js",
+      "link": "/alidcastano/rogue.js"
+    },
+    "description": "Rogue.js - a nearly invisible framework for creating server-rendered React applications",
+    "stars": 1605,
+    "forks": 46,
+    "todayStars": 115
+  },
+  {
+    "repo": {
+      "rawName": "lpereira / lwan",
+      "owner": "lpereira",
+      "name": "lwan",
+      "link": "/lpereira/lwan"
+    },
+    "description": "Experimental, scalable, high performance HTTP server",
+    "stars": 4604,
+    "forks": 497,
+    "todayStars": 109
+  },
+  {
+    "repo": {
+      "rawName": "CocoaDebug / CocoaDebug",
+      "owner": "CocoaDebug",
+      "name": "CocoaDebug",
+      "link": "/CocoaDebug/CocoaDebug"
+    },
+    "description": "🚀 iOS Debugging Tool",
+    "stars": 1223,
+    "forks": 184,
+    "todayStars": 107
+  }
+]

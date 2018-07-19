@@ -1,0 +1,32 @@
+{
+  "name": "gh-trending-parser",
+  "version": "0.1.1",
+  "description": "A simple parser for GitHub Trending, based on cheerio.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/karakanb/gh-trending-parser"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Burak Karakan",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "ava": "1.0.0-beta.4"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "github-trending",
+    "github-parser",
+    "parser"
+  ],
+  "bugs": {
+    "url": "https://github.com/karakanb/gh-trending-parser/issues"
+  },
+  "homepage": "https://github.com/karakanb/gh-trending-parser"
+}
