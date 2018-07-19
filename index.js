@@ -7,9 +7,7 @@ function parseHn(gitHubHtml) {
 
     var item = $(this);
     var divs = item.children('div');
-    var repo = getRepoInformation(divs.first());
-    var description = divs.eq(2).text().trim().replace(/\s\s+/g, ' ');
-
+    var repo = getRepoInformation(divs.first(), divs.eq(2));
 
     var metaRow = divs.eq(3);
     var metaLinks = metaRow.children('a');
@@ -20,9 +18,14 @@ function parseHn(gitHubHtml) {
 
     var resultObject = {
       repo,
-      description,
-      stars,
-      forks,
+      stars: {
+        count: stars,
+        link: metaLinks.first().attr('href').trim()
+      },
+      forks: {
+        count: forks,
+        link: metaLinks.eq(1).attr('href').trim()
+      },
       todayStars,
     }
     items[i] = resultObject;
@@ -35,7 +38,7 @@ function toNumeric(item) {
   return parseInt(item.text().trim().replace(/,/g, ""));
 }
 
-function getRepoInformation(repo) {
+function getRepoInformation(repo, descriptionDiv) {
   var repoName = repo.text().trim();
   var owner = repoName.split(' / ')[0].trim();
   var name = repoName.split(' / ')[1].trim();
@@ -44,7 +47,8 @@ function getRepoInformation(repo) {
     rawName: repoName,
     owner,
     name,
-    link: repo.find('a').first().attr('href')
+    link: repo.find('a').first().attr('href'),
+    description: descriptionDiv.text().trim().replace(/\s\s+/g, ' ')
   }
 }
 
