@@ -1,15 +1,15 @@
 var cheerio = require('cheerio')
 
-function parseHn(gitHubHtml) {
+function parseGh(gitHubHtml) {
   var $ = cheerio.load(gitHubHtml)
   var items = []
-  $('.repo-list li').each(function (i, elem) {
+  $('article.Box-row').each(function (i) {
 
     var item = $(this);
     var divs = item.children('div');
-    var repo = getRepoInformation(divs.first(), divs.eq(2));
+    var repo = getRepoInformation(item.children('h1').first(), item.children('p').first());
 
-    var metaRow = divs.eq(3);
+    var metaRow = divs.last();
     var metaLinks = metaRow.children('a');
 
     var stars = toNumeric(metaLinks.first());
@@ -27,7 +27,8 @@ function parseHn(gitHubHtml) {
         link: metaLinks.eq(1).attr('href').trim()
       },
       todayStars,
-    }
+    };
+
     items[i] = resultObject;
   });
 
@@ -53,11 +54,11 @@ function getRepoInformation(repo, descriptionDiv) {
 }
 
 exports.parse = function (gitHubHtml) {
-  return parseHn(gitHubHtml)
+  return parseGh(gitHubHtml)
 }
 
 exports.parseAsync = function (gitHubHtml, callback) {
-  callback(parseHn(gitHubHtml))
+  callback(parseGh(gitHubHtml))
 }
 
 

@@ -1,381 +1,183 @@
 [
   {
     "repo": {
-      "rawName": "InterviewMap / InterviewMap",
-      "owner": "InterviewMap",
-      "name": "InterviewMap",
-      "link": "/InterviewMap/InterviewMap",
-      "description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc."
+      "rawName": "TrillCyborg / fullstack",
+      "owner": "TrillCyborg",
+      "name": "fullstack",
+      "link": "/TrillCyborg/fullstack",
+      "description": "React/ApolloGraphQL/Node/Mongo demo written in Typescript"
     },
     "stars": {
-      "count": 3897,
-      "link": "/InterviewMap/InterviewMap/stargazers"
+      "count": 6288,
+      "link": "/TrillCyborg/fullstack/stargazers"
     },
     "forks": {
-      "count": 382,
-      "link": "/InterviewMap/InterviewMap/network"
+      "count": 2155,
+      "link": "/TrillCyborg/fullstack/network/members"
     },
-    "todayStars": 652
+    "todayStars": 1756
   },
   {
     "repo": {
-      "rawName": "donnemartin / system-design-primer",
-      "owner": "donnemartin",
-      "name": "system-design-primer",
-      "link": "/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards."
+      "rawName": "0voice / from_coder_to_expert",
+      "owner": "0voice",
+      "name": "from_coder_to_expert",
+      "link": "/0voice/from_coder_to_expert",
+      "description": "2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT"
     },
     "stars": {
-      "count": 35648,
-      "link": "/donnemartin/system-design-primer/stargazers"
+      "count": 2264,
+      "link": "/0voice/from_coder_to_expert/stargazers"
     },
     "forks": {
-      "count": 4503,
-      "link": "/donnemartin/system-design-primer/network"
+      "count": 549,
+      "link": "/0voice/from_coder_to_expert/network/members"
     },
-    "todayStars": 521
+    "todayStars": 1304
   },
   {
     "repo": {
-      "rawName": "chubin / cheat.sh",
-      "owner": "chubin",
-      "name": "cheat.sh",
-      "link": "/chubin/cheat.sh",
-      "description": "the only cheat sheet you need"
+      "rawName": "rasbt / deeplearning-models",
+      "owner": "rasbt",
+      "name": "deeplearning-models",
+      "link": "/rasbt/deeplearning-models",
+      "description": "A collection of various deep learning architectures, models, and tips"
     },
     "stars": {
-      "count": 9503,
-      "link": "/chubin/cheat.sh/stargazers"
+      "count": 5063,
+      "link": "/rasbt/deeplearning-models/stargazers"
     },
     "forks": {
-      "count": 347,
-      "link": "/chubin/cheat.sh/network"
+      "count": 962,
+      "link": "/rasbt/deeplearning-models/network/members"
     },
-    "todayStars": 359
+    "todayStars": 627
   },
   {
     "repo": {
-      "rawName": "phobal / ivideo",
-      "owner": "phobal",
-      "name": "ivideo",
-      "link": "/phobal/ivideo",
-      "description": "一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux） A client that can watch video of domestic(China) mainstream video platform"
+      "rawName": "imhuster / Enterprise-Registration-Data-of-Chinese-Mainland",
+      "owner": "imhuster",
+      "name": "Enterprise-Registration-Data-of-Chinese-Mainland",
+      "link": "/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland",
+      "description": "中国大陆 31 个省份1978 年至 2019 年一千多万工商企业注册信息，包含企业名称、注册地址、统一社会信用代码、地区、注册日期、经营范围、法人代表、注册资金、企业类型等详细资料。This repository is an dataset of over 10,000,000 enterprise registration data of 31 provinces in Chinese mainland from 1978 to 2019.【工商大数据】、【企业信息】、【enterprise registration data】。"
     },
     "stars": {
-      "count": 7005,
-      "link": "/phobal/ivideo/stargazers"
+      "count": 5252,
+      "link": "/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/stargazers"
     },
     "forks": {
-      "count": 1895,
-      "link": "/phobal/ivideo/network"
+      "count": 2147,
+      "link": "/imhuster/Enterprise-Registration-Data-of-Chinese-Mainland/network/members"
     },
-    "todayStars": 309
+    "todayStars": 554
   },
   {
     "repo": {
-      "rawName": "chrislgarry / Apollo-11",
-      "owner": "chrislgarry",
-      "name": "Apollo-11",
-      "link": "/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules."
+      "rawName": "jackfrued / Python-100-Days",
+      "owner": "jackfrued",
+      "name": "Python-100-Days",
+      "link": "/jackfrued/Python-100-Days",
+      "description": "Python - 100天从新手到大师"
     },
     "stars": {
-      "count": 27355,
-      "link": "/chrislgarry/Apollo-11/stargazers"
+      "count": 40848,
+      "link": "/jackfrued/Python-100-Days/stargazers"
     },
     "forks": {
-      "count": 3563,
-      "link": "/chrislgarry/Apollo-11/network"
+      "count": 14495,
+      "link": "/jackfrued/Python-100-Days/network/members"
     },
-    "todayStars": 312
+    "todayStars": 516
   },
   {
     "repo": {
-      "rawName": "techbanca / coinai",
-      "owner": "techbanca",
-      "name": "coinai",
-      "link": "/techbanca/coinai",
-      "description": "Seed applications based on AI for digital currency quantitative analysis, medium-term forecast and asset allocation for the secondary market of the BANCA community"
+      "rawName": "sfyc23 / EverydayWechat",
+      "owner": "sfyc23",
+      "name": "EverydayWechat",
+      "link": "/sfyc23/EverydayWechat",
+      "description": "每日自动给女朋友发微信暖心话。"
     },
     "stars": {
-      "count": 134,
-      "link": "/techbanca/coinai/stargazers"
+      "count": 2220,
+      "link": "/sfyc23/EverydayWechat/stargazers"
     },
     "forks": {
-      "count": 859,
-      "link": "/techbanca/coinai/network"
+      "count": 429,
+      "link": "/sfyc23/EverydayWechat/network/members"
     },
-    "todayStars": 113
+    "todayStars": 509
   },
   {
     "repo": {
-      "rawName": "hasura / graphql-engine",
-      "owner": "hasura",
-      "name": "graphql-engine",
-      "link": "/hasura/graphql-engine",
-      "description": "Blazing fast, instant GraphQL APIs on Postgres with fine grained access control"
+      "rawName": "Juanpe / About-SwiftUI",
+      "owner": "Juanpe",
+      "name": "About-SwiftUI",
+      "link": "/Juanpe/About-SwiftUI",
+      "description": "Gathering all info published, both by Apple and by others, about new framework SwiftUI."
     },
     "stars": {
-      "count": 2229,
-      "link": "/hasura/graphql-engine/stargazers"
+      "count": 1243,
+      "link": "/Juanpe/About-SwiftUI/stargazers"
     },
     "forks": {
-      "count": 54,
-      "link": "/hasura/graphql-engine/network"
+      "count": 63,
+      "link": "/Juanpe/About-SwiftUI/network/members"
     },
-    "todayStars": 250
+    "todayStars": 539
   },
   {
     "repo": {
-      "rawName": "imbrn / v8n",
-      "owner": "imbrn",
-      "name": "v8n",
-      "link": "/imbrn/v8n",
-      "description": "☑️ JavaScript fluent validation library."
+      "rawName": "jlevy / the-art-of-command-line",
+      "owner": "jlevy",
+      "name": "the-art-of-command-line",
+      "link": "/jlevy/the-art-of-command-line",
+      "description": "Master the command line, in one page"
     },
     "stars": {
-      "count": 1148,
-      "link": "/imbrn/v8n/stargazers"
+      "count": 56368,
+      "link": "/jlevy/the-art-of-command-line/stargazers"
     },
     "forks": {
-      "count": 22,
-      "link": "/imbrn/v8n/network"
+      "count": 5897,
+      "link": "/jlevy/the-art-of-command-line/network/members"
     },
-    "todayStars": 244
+    "todayStars": 377
   },
   {
     "repo": {
-      "rawName": "adam-golab / react-developer-roadmap",
-      "owner": "adam-golab",
-      "name": "react-developer-roadmap",
-      "link": "/adam-golab/react-developer-roadmap",
-      "description": "Roadmap to becoming a React developer in 2018"
+      "rawName": "SimpleBoilerplates / SwiftUI-Cheat-Sheet",
+      "owner": "SimpleBoilerplates",
+      "name": "SwiftUI-Cheat-Sheet",
+      "link": "/SimpleBoilerplates/SwiftUI-Cheat-Sheet",
+      "description": "SwiftUI Cheat Sheet"
     },
     "stars": {
-      "count": 7171,
-      "link": "/adam-golab/react-developer-roadmap/stargazers"
+      "count": 501,
+      "link": "/SimpleBoilerplates/SwiftUI-Cheat-Sheet/stargazers"
     },
     "forks": {
-      "count": 547,
-      "link": "/adam-golab/react-developer-roadmap/network"
+      "count": 24,
+      "link": "/SimpleBoilerplates/SwiftUI-Cheat-Sheet/network/members"
     },
-    "todayStars": 171
+    "todayStars": 390
   },
   {
     "repo": {
-      "rawName": "quantumlib / Cirq",
-      "owner": "quantumlib",
-      "name": "Cirq",
-      "link": "/quantumlib/Cirq",
-      "description": "A python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits."
+      "rawName": "MisterBooo / LeetCodeAnimation",
+      "owner": "MisterBooo",
+      "name": "LeetCodeAnimation",
+      "link": "/MisterBooo/LeetCodeAnimation",
+      "description": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）"
     },
     "stars": {
-      "count": 203,
-      "link": "/quantumlib/Cirq/stargazers"
+      "count": 31478,
+      "link": "/MisterBooo/LeetCodeAnimation/stargazers"
     },
     "forks": {
-      "count": 13,
-      "link": "/quantumlib/Cirq/network"
+      "count": 4879,
+      "link": "/MisterBooo/LeetCodeAnimation/network/members"
     },
-    "todayStars": 169
-  },
-  {
-    "repo": {
-      "rawName": "jdkato / prose",
-      "owner": "jdkato",
-      "name": "prose",
-      "link": "/jdkato/prose",
-      "description": "📖 A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction."
-    },
-    "stars": {
-      "count": 1354,
-      "link": "/jdkato/prose/stargazers"
-    },
-    "forks": {
-      "count": 53,
-      "link": "/jdkato/prose/network"
-    },
-    "todayStars": 173
-  },
-  {
-    "repo": {
-      "rawName": "tensorflow / tensorflow",
-      "owner": "tensorflow",
-      "name": "tensorflow",
-      "link": "/tensorflow/tensorflow",
-      "description": "Computation using data flow graphs for scalable machine learning"
-    },
-    "stars": {
-      "count": 105371,
-      "link": "/tensorflow/tensorflow/stargazers"
-    },
-    "forks": {
-      "count": 65553,
-      "link": "/tensorflow/tensorflow/network"
-    },
-    "todayStars": 131
-  },
-  {
-    "repo": {
-      "rawName": "toddmotto / public-apis",
-      "owner": "toddmotto",
-      "name": "public-apis",
-      "link": "/toddmotto/public-apis",
-      "description": "A collective list of public JSON APIs for use in web development."
-    },
-    "stars": {
-      "count": 39948,
-      "link": "/toddmotto/public-apis/stargazers"
-    },
-    "forks": {
-      "count": 3949,
-      "link": "/toddmotto/public-apis/network"
-    },
-    "todayStars": 156
-  },
-  {
-    "repo": {
-      "rawName": "jasperapp / jasper",
-      "owner": "jasperapp",
-      "name": "jasper",
-      "link": "/jasperapp/jasper",
-      "description": "Jasper - A flexible and powerful issue reader for GitHub"
-    },
-    "stars": {
-      "count": 641,
-      "link": "/jasperapp/jasper/stargazers"
-    },
-    "forks": {
-      "count": 17,
-      "link": "/jasperapp/jasper/network"
-    },
-    "todayStars": 155
-  },
-  {
-    "repo": {
-      "rawName": "vuejs / vue",
-      "owner": "vuejs",
-      "name": "vue",
-      "link": "/vuejs/vue",
-      "description": "🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
-    },
-    "stars": {
-      "count": 107927,
-      "link": "/vuejs/vue/stargazers"
-    },
-    "forks": {
-      "count": 15055,
-      "link": "/vuejs/vue/network"
-    },
-    "todayStars": 141
-  },
-  {
-    "repo": {
-      "rawName": "CyC2018 / Interview-Notebook",
-      "owner": "CyC2018",
-      "name": "Interview-Notebook",
-      "link": "/CyC2018/Interview-Notebook",
-      "description": "📆 准备秋招学习笔记"
-    },
-    "stars": {
-      "count": 28741,
-      "link": "/CyC2018/Interview-Notebook/stargazers"
-    },
-    "forks": {
-      "count": 8153,
-      "link": "/CyC2018/Interview-Notebook/network"
-    },
-    "todayStars": 127
-  },
-  {
-    "repo": {
-      "rawName": "ansible / ansible-jupyter-kernel",
-      "owner": "ansible",
-      "name": "ansible-jupyter-kernel",
-      "link": "/ansible/ansible-jupyter-kernel",
-      "description": "Jupyter Notebook Kernel for running Ansible Tasks and Playbooks"
-    },
-    "stars": {
-      "count": 188,
-      "link": "/ansible/ansible-jupyter-kernel/stargazers"
-    },
-    "forks": {
-      "count": 8,
-      "link": "/ansible/ansible-jupyter-kernel/network"
-    },
-    "todayStars": 144
-  },
-  {
-    "repo": {
-      "rawName": "flutter / flutter",
-      "owner": "flutter",
-      "name": "flutter",
-      "link": "/flutter/flutter",
-      "description": "Flutter makes it easy and fast to build beautiful mobile apps."
-    },
-    "stars": {
-      "count": 32762,
-      "link": "/flutter/flutter/stargazers"
-    },
-    "forks": {
-      "count": 2988,
-      "link": "/flutter/flutter/network"
-    },
-    "todayStars": 135
-  },
-  {
-    "repo": {
-      "rawName": "crossoverJie / Java-Interview",
-      "owner": "crossoverJie",
-      "name": "Java-Interview",
-      "link": "/crossoverJie/Java-Interview",
-      "description": "👨‍🎓 Java related : basic, concurrent, algorithm"
-    },
-    "stars": {
-      "count": 6824,
-      "link": "/crossoverJie/Java-Interview/stargazers"
-    },
-    "forks": {
-      "count": 1624,
-      "link": "/crossoverJie/Java-Interview/network"
-    },
-    "todayStars": 115
-  },
-  {
-    "repo": {
-      "rawName": "PanJiaChen / vue-element-admin",
-      "owner": "PanJiaChen",
-      "name": "vue-element-admin",
-      "link": "/PanJiaChen/vue-element-admin",
-      "description": "🎉 A magical vue admin http://panjiachen.github.io/vue-element-admin"
-    },
-    "stars": {
-      "count": 16325,
-      "link": "/PanJiaChen/vue-element-admin/stargazers"
-    },
-    "forks": {
-      "count": 4887,
-      "link": "/PanJiaChen/vue-element-admin/network"
-    },
-    "todayStars": 112
-  },
-  {
-    "repo": {
-      "rawName": "alecthomas / participle",
-      "owner": "alecthomas",
-      "name": "participle",
-      "link": "/alecthomas/participle",
-      "description": "A parser library for Go"
-    },
-    "stars": {
-      "count": 792,
-      "link": "/alecthomas/participle/stargazers"
-    },
-    "forks": {
-      "count": 30,
-      "link": "/alecthomas/participle/network"
-    },
-    "todayStars": 120
+    "todayStars": 346
   },
   {
     "repo": {
@@ -386,67 +188,265 @@
       "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅"
     },
     "stars": {
-      "count": 17348,
+      "count": 26703,
       "link": "/gothinkster/realworld/stargazers"
     },
     "forks": {
-      "count": 1064,
-      "link": "/gothinkster/realworld/network"
+      "count": 1793,
+      "link": "/gothinkster/realworld/network/members"
     },
-    "todayStars": 116
+    "todayStars": 369
   },
   {
     "repo": {
-      "rawName": "alidcastano / rogue.js",
-      "owner": "alidcastano",
-      "name": "rogue.js",
-      "link": "/alidcastano/rogue.js",
-      "description": "Rogue.js - a nearly invisible framework for creating server-rendered React applications"
+      "rawName": "pytorch / hub",
+      "owner": "pytorch",
+      "name": "hub",
+      "link": "/pytorch/hub",
+      "description": ""
     },
     "stars": {
-      "count": 1605,
-      "link": "/alidcastano/rogue.js/stargazers"
+      "count": 390,
+      "link": "/pytorch/hub/stargazers"
     },
     "forks": {
-      "count": 46,
-      "link": "/alidcastano/rogue.js/network"
+      "count": 35,
+      "link": "/pytorch/hub/network/members"
     },
-    "todayStars": 115
+    "todayStars": 345
   },
   {
     "repo": {
-      "rawName": "lpereira / lwan",
-      "owner": "lpereira",
-      "name": "lwan",
-      "link": "/lpereira/lwan",
-      "description": "Experimental, scalable, high performance HTTP server"
+      "rawName": "CyC2018 / CS-Notes",
+      "owner": "CyC2018",
+      "name": "CS-Notes",
+      "link": "/CyC2018/CS-Notes",
+      "description": "📚 技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计"
     },
     "stars": {
-      "count": 4604,
-      "link": "/lpereira/lwan/stargazers"
+      "count": 66065,
+      "link": "/CyC2018/CS-Notes/stargazers"
     },
     "forks": {
-      "count": 497,
-      "link": "/lpereira/lwan/network"
+      "count": 20287,
+      "link": "/CyC2018/CS-Notes/network/members"
     },
-    "todayStars": 109
+    "todayStars": 250
   },
   {
     "repo": {
-      "rawName": "CocoaDebug / CocoaDebug",
-      "owner": "CocoaDebug",
-      "name": "CocoaDebug",
-      "link": "/CocoaDebug/CocoaDebug",
-      "description": "🚀 iOS Debugging Tool"
+      "rawName": "ngosang / trackerslist",
+      "owner": "ngosang",
+      "name": "trackerslist",
+      "link": "/ngosang/trackerslist",
+      "description": "Updated list of public BitTorrent trackers"
     },
     "stars": {
-      "count": 1223,
-      "link": "/CocoaDebug/CocoaDebug/stargazers"
+      "count": 11493,
+      "link": "/ngosang/trackerslist/stargazers"
     },
     "forks": {
-      "count": 184,
-      "link": "/CocoaDebug/CocoaDebug/network"
+      "count": 1714,
+      "link": "/ngosang/trackerslist/network/members"
     },
-    "todayStars": 107
+    "todayStars": 264
+  },
+  {
+    "repo": {
+      "rawName": "Snailclimb / JavaGuide",
+      "owner": "Snailclimb",
+      "name": "JavaGuide",
+      "link": "/Snailclimb/JavaGuide",
+      "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。"
+    },
+    "stars": {
+      "count": 43861,
+      "link": "/Snailclimb/JavaGuide/stargazers"
+    },
+    "forks": {
+      "count": 13850,
+      "link": "/Snailclimb/JavaGuide/network/members"
+    },
+    "todayStars": 232
+  },
+  {
+    "repo": {
+      "rawName": "microsoft / terminal",
+      "owner": "microsoft",
+      "name": "terminal",
+      "link": "/microsoft/terminal",
+      "description": "The new Windows Terminal, and the original Windows console host -- all in the same place!"
+    },
+    "stars": {
+      "count": 44466,
+      "link": "/microsoft/terminal/stargazers"
+    },
+    "forks": {
+      "count": 4228,
+      "link": "/microsoft/terminal/network/members"
+    },
+    "todayStars": 248
+  },
+  {
+    "repo": {
+      "rawName": "nannou-org / nannou",
+      "owner": "nannou-org",
+      "name": "nannou",
+      "link": "/nannou-org/nannou",
+      "description": "A Creative Coding Framework for Rust."
+    },
+    "stars": {
+      "count": 982,
+      "link": "/nannou-org/nannou/stargazers"
+    },
+    "forks": {
+      "count": 45,
+      "link": "/nannou-org/nannou/network/members"
+    },
+    "todayStars": 258
+  },
+  {
+    "repo": {
+      "rawName": "d2l-ai / d2l-zh",
+      "owner": "d2l-ai",
+      "name": "d2l-zh",
+      "link": "/d2l-ai/d2l-zh",
+      "description": "《动手学深度学习》，英文版即伯克利深度学习（STAT 157，2019春）教材。面向中文读者、能运行、可讨论。"
+    },
+    "stars": {
+      "count": 8657,
+      "link": "/d2l-ai/d2l-zh/stargazers"
+    },
+    "forks": {
+      "count": 2272,
+      "link": "/d2l-ai/d2l-zh/network/members"
+    },
+    "todayStars": 244
+  },
+  {
+    "repo": {
+      "rawName": "kylelobo / The-Documentation-Compendium",
+      "owner": "kylelobo",
+      "name": "The-Documentation-Compendium",
+      "link": "/kylelobo/The-Documentation-Compendium",
+      "description": "📢 Various README templates & tips on writing high-quality documentation that people want to read."
+    },
+    "stars": {
+      "count": 1049,
+      "link": "/kylelobo/The-Documentation-Compendium/stargazers"
+    },
+    "forks": {
+      "count": 65,
+      "link": "/kylelobo/The-Documentation-Compendium/network/members"
+    },
+    "todayStars": 249
+  },
+  {
+    "repo": {
+      "rawName": "dessant / buster",
+      "owner": "dessant",
+      "name": "buster",
+      "link": "/dessant/buster",
+      "description": "Captcha solver extension for humans"
+    },
+    "stars": {
+      "count": 1368,
+      "link": "/dessant/buster/stargazers"
+    },
+    "forks": {
+      "count": 70,
+      "link": "/dessant/buster/network/members"
+    },
+    "todayStars": 250
+  },
+  {
+    "repo": {
+      "rawName": "wwenj / tripRecord",
+      "owner": "wwenj",
+      "name": "tripRecord",
+      "link": "/wwenj/tripRecord",
+      "description": "咔咔出行——解决出行问题基于高德地图API，Vue，Express实现的移动端全栈webapp"
+    },
+    "stars": {
+      "count": 508,
+      "link": "/wwenj/tripRecord/stargazers"
+    },
+    "forks": {
+      "count": 181,
+      "link": "/wwenj/tripRecord/network/members"
+    },
+    "todayStars": 185
+  },
+  {
+    "repo": {
+      "rawName": "pqina / filepond",
+      "owner": "pqina",
+      "name": "filepond",
+      "link": "/pqina/filepond",
+      "description": "🌊 A flexible and fun JavaScript file upload library"
+    },
+    "stars": {
+      "count": 6399,
+      "link": "/pqina/filepond/stargazers"
+    },
+    "forks": {
+      "count": 315,
+      "link": "/pqina/filepond/network/members"
+    },
+    "todayStars": 208
+  },
+  {
+    "repo": {
+      "rawName": "azl397985856 / leetcode",
+      "owner": "azl397985856",
+      "name": "leetcode",
+      "link": "/azl397985856/leetcode",
+      "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)"
+    },
+    "stars": {
+      "count": 10386,
+      "link": "/azl397985856/leetcode/stargazers"
+    },
+    "forks": {
+      "count": 1673,
+      "link": "/azl397985856/leetcode/network/members"
+    },
+    "todayStars": 190
+  },
+  {
+    "repo": {
+      "rawName": "bitfield / script",
+      "owner": "bitfield",
+      "name": "script",
+      "link": "/bitfield/script",
+      "description": "Making it easy to write shell-like scripts in Go"
+    },
+    "stars": {
+      "count": 391,
+      "link": "/bitfield/script/stargazers"
+    },
+    "forks": {
+      "count": 17,
+      "link": "/bitfield/script/network/members"
+    },
+    "todayStars": 184
+  },
+  {
+    "repo": {
+      "rawName": "TheAlgorithms / Python",
+      "owner": "TheAlgorithms",
+      "name": "Python",
+      "link": "/TheAlgorithms/Python",
+      "description": "All Algorithms implemented in Python"
+    },
+    "stars": {
+      "count": 45533,
+      "link": "/TheAlgorithms/Python/stargazers"
+    },
+    "forks": {
+      "count": 13056,
+      "link": "/TheAlgorithms/Python/network/members"
+    },
+    "todayStars": 149
   }
 ]
