@@ -4,32 +4,36 @@ function parseGh(gitHubHtml) {
   var $ = cheerio.load(gitHubHtml)
   var items = []
   $('article.Box-row').each(function (i) {
+    try {
+      var item = $(this);
+      var divs = item.children('div');
+      var repo = getRepoInformation(item.children('h1').first(), item.children('p').first());
 
-    var item = $(this);
-    var divs = item.children('div');
-    var repo = getRepoInformation(item.children('h1').first(), item.children('p').first());
+      var metaRow = divs.last();
+      var metaLinks = metaRow.children('a');
 
-    var metaRow = divs.last();
-    var metaLinks = metaRow.children('a');
+      var stars = toNumeric(metaLinks.first());
+      var forks = toNumeric(metaLinks.eq(1));
+      var todayStars = parseInt(metaRow.children('span').last().text().trim().split(' ')[0].replace(/,/g, ""));
 
-    var stars = toNumeric(metaLinks.first());
-    var forks = toNumeric(metaLinks.eq(1));
-    var todayStars = parseInt(metaRow.children('span').last().text().trim().split(' ')[0].replace(/,/g, ""));
+      var resultObject = {
+        repo,
+        stars: {
+          count: stars,
+          link: metaLinks.first().attr('href').trim()
+        },
+        forks: {
+          count: isNaN(forks) ? 0 : forks,
+          link: metaLinks.eq(1).attr('href') ? metaLinks.eq(1).attr('href').trim() : ''
+        },
+        todayStars,
+      };
 
-    var resultObject = {
-      repo,
-      stars: {
-        count: stars,
-        link: metaLinks.first().attr('href').trim()
-      },
-      forks: {
-        count: forks,
-        link: metaLinks.eq(1).attr('href').trim()
-      },
-      todayStars,
-    };
-
-    items[i] = resultObject;
+      items[i] = resultObject;
+    } catch (error) {
+      console.error('repo', repo)
+      console.error(error)
+    }
   });
 
   return items;

@@ -6,4 +6,5 @@ const expectedOutputPath = './test_content/expected_output.json'
 
 const sampleData = fs.readFileSync(sampleDataPath);
 const items = parser.parse(sampleData);
-console.log(items);
+fs.writeFileSync(expectedOutputPath, JSON.stringify(items));
+console.log('Output written to ' + expectedOutputPath);
