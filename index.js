@@ -16,6 +16,10 @@ function parseGh(gitHubHtml) {
       var forks = toNumeric(metaLinks.eq(1));
       var todayStars = parseInt(metaRow.children('span').last().text().trim().split(' ')[0].replace(/,/g, ""));
 
+      var language = metaRow.find('[itemprop="programmingLanguage"]').first();
+      var languageFound = language && language.text().trim() !== '';
+      var languageColor = languageFound ? language.siblings('.repo-language-color').first() : null;
+
       var resultObject = {
         repo,
         stars: {
@@ -27,6 +31,12 @@ function parseGh(gitHubHtml) {
           link: metaLinks.eq(1).attr('href') ? metaLinks.eq(1).attr('href').trim() : ''
         },
         todayStars,
+        ...(languageFound && {
+          language: {
+            is: language && language.text().trim() !== '' ? language.text().trim() : null,
+            color: languageColor ? languageColor.css('background-color') : null,
+          }
+        }),
       };
 
       items[i] = resultObject;
