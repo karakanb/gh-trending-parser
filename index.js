@@ -7,6 +7,7 @@ function parseGh(gitHubHtml) {
     try {
       var item = $(this);
       var divs = item.children('div');
+      var h1 = item.children('h1').first();
       var repo = getRepoInformation(item.children('h1').first(), item.children('p').first());
 
       var metaRow = divs.last();
@@ -54,7 +55,7 @@ function toNumeric(item) {
 }
 
 function getRepoInformation(repo, descriptionDiv) {
-  var repoName = repo.text().trim();
+  var repoName = removeExtraSpaces(repo.text().trim());
   var owner = repoName.split(' / ')[0].trim();
   var name = repoName.split(' / ')[1].trim();
 
@@ -63,8 +64,12 @@ function getRepoInformation(repo, descriptionDiv) {
     owner,
     name,
     link: repo.find('a').first().attr('href'),
-    description: descriptionDiv.text().trim().replace(/\s\s+/g, ' ')
+    description: removeExtraSpaces(descriptionDiv.text().trim())
   }
+}
+
+function removeExtraSpaces(str) {
+  return str.replace(/\s\s+/g, ' ')
 }
 
 exports.parse = function (gitHubHtml) {
