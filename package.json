@@ -1,6 +1,6 @@
 {
   "name": "gh-trending-parser",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "A simple parser for GitHub Trending, based on cheerio.",
   "repository": {
     "type": "git",
