@@ -6,8 +6,8 @@ function parseGh(gitHubHtml) {
   $('article.Box-row').each(function (i) {
     var item = $(this);
     var divs = item.children('div');
-    var h1 = item.children('h1').first();
-    var repo = getRepoInformation(item.children('h1').first(), item.children('p').first());
+    var h1 = item.children('h2').first();
+    var repo = getRepoInformation(h1.first(), item.children('p').first());
 
     var metaRow = divs.last();
     var metaLinks = metaRow.children('a');

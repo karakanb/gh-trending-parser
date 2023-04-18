@@ -1,1 +1,544 @@
-[{"repo":{"rawName":"wesbos / beginner-javascript","owner":"wesbos","name":"beginner-javascript","link":"/wesbos/beginner-javascript","description":"Slam Dunk JavaScript"},"stars":{"count":1362,"link":"/wesbos/beginner-javascript/stargazers.beginner-javascript"},"forks":{"count":221,"link":"/wesbos/beginner-javascript/network/members.beginner-javascript"},"todayStars":266,"language":{"is":"HTML","color":"#e34c26"}},{"repo":{"rawName":"home-assistant / home-assistant","owner":"home-assistant","name":"home-assistant","link":"/home-assistant/home-assistant","description":"🏡 Open source home automation that puts local control and privacy first"},"stars":{"count":29536,"link":"/home-assistant/home-assistant/stargazers.home-assistant"},"forks":{"count":8604,"link":"/home-assistant/home-assistant/network/members.home-assistant"},"todayStars":217,"language":{"is":"Python","color":"#3572A5"}},{"repo":{"rawName":"sherlock-project / sherlock","owner":"sherlock-project","name":"sherlock","link":"/sherlock-project/sherlock","description":"🔎 Find usernames across social networks"},"stars":{"count":9342,"link":"/sherlock-project/sherlock/stargazers.sherlock"},"forks":{"count":862,"link":"/sherlock-project/sherlock/network/members.sherlock"},"todayStars":231,"language":{"is":"Python","color":"#3572A5"}},{"repo":{"rawName":"ageron / handson-ml2","owner":"ageron","name":"handson-ml2","link":"/ageron/handson-ml2","description":"A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."},"stars":{"count":4527,"link":"/ageron/handson-ml2/stargazers.handson-ml2"},"forks":{"count":1557,"link":"/ageron/handson-ml2/network/members.handson-ml2"},"todayStars":86,"language":{"is":"Jupyter Notebook","color":"#DA5B0B"}},{"repo":{"rawName":"kanaka / mal","owner":"kanaka","name":"mal","link":"/kanaka/mal","description":"mal - Make a Lisp"},"stars":{"count":6461,"link":"/kanaka/mal/stargazers.mal"},"forks":{"count":1370,"link":"/kanaka/mal/network/members.mal"},"todayStars":62,"language":{"is":"Assembly","color":"#6E4C13"}},{"repo":{"rawName":"jakubroztocil / httpie","owner":"jakubroztocil","name":"httpie","link":"/jakubroztocil/httpie","description":"As easy as HTTPie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp"},"stars":{"count":44815,"link":"/jakubroztocil/httpie/stargazers.httpie"},"forks":{"count":2901,"link":"/jakubroztocil/httpie/network/members.httpie"},"todayStars":179,"language":{"is":"Python","color":"#3572A5"}},{"repo":{"rawName":"timqian / chinese-independent-blogs","owner":"timqian","name":"chinese-independent-blogs","link":"/timqian/chinese-independent-blogs","description":"中文独立博客列表"},"stars":{"count":2928,"link":"/timqian/chinese-independent-blogs/stargazers.chinese-independent-blogs"},"forks":{"count":342,"link":"/timqian/chinese-independent-blogs/network/members.chinese-independent-blogs"},"todayStars":251,"language":{"is":"JavaScript","color":"#f1e05a"}},{"repo":{"rawName":"awslabs / djl","owner":"awslabs","name":"djl","link":"/awslabs/djl","description":"An Engine-Agnostic Deep Learning Framework"},"stars":{"count":248,"link":"/awslabs/djl/stargazers.djl"},"forks":{"count":25,"link":"/awslabs/djl/network/members.djl"},"todayStars":61,"language":{"is":"Java","color":"#b07219"}},{"repo":{"rawName":"TritonHo / slides","owner":"TritonHo","name":"slides","link":"/TritonHo/slides","description":"it is a repository to store all slides used by Triton Ho's public presentation and course."},"stars":{"count":1205,"link":"/TritonHo/slides/stargazers.slides"},"forks":{"count":266,"link":"/TritonHo/slides/network/members.slides"},"todayStars":34},{"repo":{"rawName":"ix64 / unlock-music","owner":"ix64","name":"unlock-music","link":"/ix64/unlock-music","description":"Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。"},"stars":{"count":1141,"link":"/ix64/unlock-music/stargazers.unlock-music"},"forks":{"count":196,"link":"/ix64/unlock-music/network/members.unlock-music"},"todayStars":144,"language":{"is":"JavaScript","color":"#f1e05a"}},{"repo":{"rawName":"mml-book / mml-book.github.io","owner":"mml-book","name":"mml-book.github.io","link":"/mml-book/mml-book.github.io","description":"Companion webpage to the book \"Mathematics For Machine Learning\""},"stars":{"count":4348,"link":"/mml-book/mml-book.github.io/stargazers.mml-book.github.io"},"forks":{"count":911,"link":"/mml-book/mml-book.github.io/network/members.mml-book.github.io"},"todayStars":67,"language":{"is":"Jupyter Notebook","color":"#DA5B0B"}},{"repo":{"rawName":"coolsnowwolf / lede","owner":"coolsnowwolf","name":"lede","link":"/coolsnowwolf/lede","description":"Lean's OpenWrt source"},"stars":{"count":5506,"link":"/coolsnowwolf/lede/stargazers.lede"},"forks":{"count":3684,"link":"/coolsnowwolf/lede/network/members.lede"},"todayStars":39,"language":{"is":"C","color":"#555555"}},{"repo":{"rawName":"MaterialDesignInXAML / MaterialDesignInXamlToolkit","owner":"MaterialDesignInXAML","name":"MaterialDesignInXamlToolkit","link":"/MaterialDesignInXAML/MaterialDesignInXamlToolkit","description":"Google's Material Design in XAML & WPF, for C# & VB.Net."},"stars":{"count":7802,"link":"/MaterialDesignInXAML/MaterialDesignInXamlToolkit/stargazers.MaterialDesignInXamlToolkit"},"forks":{"count":1898,"link":"/MaterialDesignInXAML/MaterialDesignInXamlToolkit/network/members.MaterialDesignInXamlToolkit"},"todayStars":36,"language":{"is":"C#","color":"#178600"}},{"repo":{"rawName":"MarlinFirmware / Marlin","owner":"MarlinFirmware","name":"Marlin","link":"/MarlinFirmware/Marlin","description":"Optimized firmware for RepRap 3D printers based on the Arduino platform."},"stars":{"count":6317,"link":"/MarlinFirmware/Marlin/stargazers.Marlin"},"forks":{"count":8153,"link":"/MarlinFirmware/Marlin/network/members.Marlin"},"todayStars":9,"language":{"is":"C++","color":"#f34b7d"}},{"repo":{"rawName":"KalleHallden / BlackFridayScrape","owner":"KalleHallden","name":"BlackFridayScrape","link":"/KalleHallden/BlackFridayScrape","description":""},"stars":{"count":90,"link":"/KalleHallden/BlackFridayScrape/stargazers.BlackFridayScrape"},"forks":{"count":27,"link":"/KalleHallden/BlackFridayScrape/network/members.BlackFridayScrape"},"todayStars":15,"language":{"is":"Python","color":"#3572A5"}},{"repo":{"rawName":"lenve / vhr","owner":"lenve","name":"vhr","link":"/lenve/vhr","description":"微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。"},"stars":{"count":12050,"link":"/lenve/vhr/stargazers.vhr"},"forks":{"count":4923,"link":"/lenve/vhr/network/members.vhr"},"todayStars":98,"language":{"is":"Java","color":"#b07219"}},{"repo":{"rawName":"rapid7 / metasploit-framework","owner":"rapid7","name":"metasploit-framework","link":"/rapid7/metasploit-framework","description":"Metasploit Framework"},"stars":{"count":19035,"link":"/rapid7/metasploit-framework/stargazers.metasploit-framework"},"forks":{"count":9231,"link":"/rapid7/metasploit-framework/network/members.metasploit-framework"},"todayStars":28,"language":{"is":"Ruby","color":"#701516"}},{"repo":{"rawName":"xwgmdjc / GengShuang","owner":"xwgmdjc","name":"GengShuang","link":"/xwgmdjc/GengShuang","description":"耿爽模拟器"},"stars":{"count":392,"link":"/xwgmdjc/GengShuang/stargazers.GengShuang"},"forks":{"count":51,"link":"/xwgmdjc/GengShuang/network/members.GengShuang"},"todayStars":108,"language":{"is":"JavaScript","color":"#f1e05a"}},{"repo":{"rawName":"hackerschoice / thc-tesla-powerwall2-hack","owner":"hackerschoice","name":"thc-tesla-powerwall2-hack","link":"/hackerschoice/thc-tesla-powerwall2-hack","description":"TESLA PowerWall 2 Security Shenanigans"},"stars":{"count":345,"link":"/hackerschoice/thc-tesla-powerwall2-hack/stargazers.thc-tesla-powerwall2-hack"},"forks":{"count":20,"link":"/hackerschoice/thc-tesla-powerwall2-hack/network/members.thc-tesla-powerwall2-hack"},"todayStars":31},{"repo":{"rawName":"fluxcd / flux","owner":"fluxcd","name":"flux","link":"/fluxcd/flux","description":"The GitOps Kubernetes operator"},"stars":{"count":3475,"link":"/fluxcd/flux/stargazers.flux"},"forks":{"count":629,"link":"/fluxcd/flux/network/members.flux"},"todayStars":44,"language":{"is":"Go","color":"#00ADD8"}},{"repo":{"rawName":"jarun / nnn","owner":"jarun","name":"nnn","link":"/jarun/nnn","description":"🐬 The missing terminal file manager for X."},"stars":{"count":6768,"link":"/jarun/nnn/stargazers.nnn"},"forks":{"count":243,"link":"/jarun/nnn/network/members.nnn"},"todayStars":39,"language":{"is":"C","color":"#555555"}},{"repo":{"rawName":"awesome-selfhosted / awesome-selfhosted","owner":"awesome-selfhosted","name":"awesome-selfhosted","link":"/awesome-selfhosted/awesome-selfhosted","description":"A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers"},"stars":{"count":38557,"link":"/awesome-selfhosted/awesome-selfhosted/stargazers.awesome-selfhosted"},"forks":{"count":3066,"link":"/awesome-selfhosted/awesome-selfhosted/network/members.awesome-selfhosted"},"todayStars":91,"language":{"is":"JavaScript","color":"#f1e05a"}},{"repo":{"rawName":"sustainers / awesome-oss-funding","owner":"sustainers","name":"awesome-oss-funding","link":"/sustainers/awesome-oss-funding","description":"A curated list of awesome resources for funding open source projects and authors."},"stars":{"count":277,"link":"/sustainers/awesome-oss-funding/stargazers.awesome-oss-funding"},"forks":{"count":7,"link":"/sustainers/awesome-oss-funding/network/members.awesome-oss-funding"},"todayStars":49},{"repo":{"rawName":"tomaspinho / rtl8821ce","owner":"tomaspinho","name":"rtl8821ce","link":"/tomaspinho/rtl8821ce","description":""},"stars":{"count":371,"link":"/tomaspinho/rtl8821ce/stargazers.rtl8821ce"},"forks":{"count":115,"link":"/tomaspinho/rtl8821ce/network/members.rtl8821ce"},"todayStars":11,"language":{"is":"C","color":"#555555"}},{"repo":{"rawName":"microsoft / PowerToys","owner":"microsoft","name":"PowerToys","link":"/microsoft/PowerToys","description":"Windows system utilities to maximize productivity"},"stars":{"count":13561,"link":"/microsoft/PowerToys/stargazers.PowerToys"},"forks":{"count":621,"link":"/microsoft/PowerToys/network/members.PowerToys"},"todayStars":101,"language":{"is":"C++","color":"#f34b7d"}}]
+[
+    {
+        "repo": {
+            "rawName": "linyiLYi / street-fighter-ai",
+            "owner": "linyiLYi",
+            "name": "street-fighter-ai",
+            "link": "/linyiLYi/street-fighter-ai",
+            "description": "This is an AI agent for Street Fighter II Champion Edition."
+        },
+        "stars": {
+            "count": 3112,
+            "link": "/linyiLYi/street-fighter-ai/stargazers"
+        },
+        "forks": {
+            "count": 567,
+            "link": "/linyiLYi/street-fighter-ai/forks"
+        },
+        "todayStars": 815,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "LAION-AI / Open-Assistant",
+            "owner": "LAION-AI",
+            "name": "Open-Assistant",
+            "link": "/LAION-AI/Open-Assistant",
+            "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so."
+        },
+        "stars": {
+            "count": 27413,
+            "link": "/LAION-AI/Open-Assistant/stargazers"
+        },
+        "forks": {
+            "count": 2201,
+            "link": "/LAION-AI/Open-Assistant/forks"
+        },
+        "todayStars": 1893,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "PineappleExpress808 / auto-evaluator",
+            "owner": "PineappleExpress808",
+            "name": "auto-evaluator",
+            "link": "/PineappleExpress808/auto-evaluator",
+            "description": ""
+        },
+        "stars": {
+            "count": 307,
+            "link": "/PineappleExpress808/auto-evaluator/stargazers"
+        },
+        "forks": {
+            "count": 26,
+            "link": "/PineappleExpress808/auto-evaluator/forks"
+        },
+        "todayStars": 68,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "thecookingsenpai / autogpt-gui",
+            "owner": "thecookingsenpai",
+            "name": "autogpt-gui",
+            "link": "/thecookingsenpai/autogpt-gui",
+            "description": "A graphical user interface for AutoGPT"
+        },
+        "stars": {
+            "count": 654,
+            "link": "/thecookingsenpai/autogpt-gui/stargazers"
+        },
+        "forks": {
+            "count": 71,
+            "link": "/thecookingsenpai/autogpt-gui/forks"
+        },
+        "todayStars": 199,
+        "language": {
+            "is": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "mlc-ai / web-llm",
+            "owner": "mlc-ai",
+            "name": "web-llm",
+            "link": "/mlc-ai/web-llm",
+            "description": "Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support."
+        },
+        "stars": {
+            "count": 3136,
+            "link": "/mlc-ai/web-llm/stargazers"
+        },
+        "forks": {
+            "count": 133,
+            "link": "/mlc-ai/web-llm/forks"
+        },
+        "todayStars": 950,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "34j / so-vits-svc-fork",
+            "owner": "34j",
+            "name": "so-vits-svc-fork",
+            "link": "/34j/so-vits-svc-fork",
+            "description": "so-vits-svc fork with realtime support, improved interface and more features."
+        },
+        "stars": {
+            "count": 1043,
+            "link": "/34j/so-vits-svc-fork/stargazers"
+        },
+        "forks": {
+            "count": 159,
+            "link": "/34j/so-vits-svc-fork/forks"
+        },
+        "todayStars": 95,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "FerretDB / FerretDB",
+            "owner": "FerretDB",
+            "name": "FerretDB",
+            "link": "/FerretDB/FerretDB",
+            "description": "A truly Open Source MongoDB alternative"
+        },
+        "stars": {
+            "count": 6396,
+            "link": "/FerretDB/FerretDB/stargazers"
+        },
+        "forks": {
+            "count": 233,
+            "link": "/FerretDB/FerretDB/forks"
+        },
+        "todayStars": 61,
+        "language": {
+            "is": "Go",
+            "color": "#00ADD8"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "pengzhile / pandora",
+            "owner": "pengzhile",
+            "name": "pandora",
+            "link": "/pengzhile/pandora",
+            "description": "潘多拉，一个不只是命令行的ChatGPT。"
+        },
+        "stars": {
+            "count": 1142,
+            "link": "/pengzhile/pandora/stargazers"
+        },
+        "forks": {
+            "count": 191,
+            "link": "/pengzhile/pandora/forks"
+        },
+        "todayStars": 76,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "zabirauf / AutoGPT.js",
+            "owner": "zabirauf",
+            "name": "AutoGPT.js",
+            "link": "/zabirauf/AutoGPT.js",
+            "description": "Auto-GPT on the browser"
+        },
+        "stars": {
+            "count": 285,
+            "link": "/zabirauf/AutoGPT.js/stargazers"
+        },
+        "forks": {
+            "count": 44,
+            "link": "/zabirauf/AutoGPT.js/forks"
+        },
+        "todayStars": 138,
+        "language": {
+            "is": "TypeScript",
+            "color": "#3178c6"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "muellerberndt / micro-gpt",
+            "owner": "muellerberndt",
+            "name": "micro-gpt",
+            "link": "/muellerberndt/micro-gpt",
+            "description": "A minimal generic autonomous agent based on GPT3.5/4. Can analyze stock prices, perform network security tests, create art, and order pizza."
+        },
+        "stars": {
+            "count": 608,
+            "link": "/muellerberndt/micro-gpt/stargazers"
+        },
+        "forks": {
+            "count": 53,
+            "link": "/muellerberndt/micro-gpt/forks"
+        },
+        "todayStars": 315,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "hax / heshijun_v_360",
+            "owner": "hax",
+            "name": "heshijun_v_360",
+            "link": "/hax/heshijun_v_360",
+            "description": "贺师俊与360的劳动争议诉讼"
+        },
+        "stars": {
+            "count": 1743,
+            "link": "/hax/heshijun_v_360/stargazers"
+        },
+        "forks": {
+            "count": 128,
+            "link": "/hax/heshijun_v_360/forks"
+        },
+        "todayStars": 441
+    },
+    {
+        "repo": {
+            "rawName": "JagadeeshwaranM / Data_Engineering_Simplified",
+            "owner": "JagadeeshwaranM",
+            "name": "Data_Engineering_Simplified",
+            "link": "/JagadeeshwaranM/Data_Engineering_Simplified",
+            "description": ""
+        },
+        "stars": {
+            "count": 507,
+            "link": "/JagadeeshwaranM/Data_Engineering_Simplified/stargazers"
+        },
+        "forks": {
+            "count": 102,
+            "link": "/JagadeeshwaranM/Data_Engineering_Simplified/forks"
+        },
+        "todayStars": 81,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "Significant-Gravitas / Auto-GPT",
+            "owner": "Significant-Gravitas",
+            "name": "Auto-GPT",
+            "link": "/Significant-Gravitas/Auto-GPT",
+            "description": "An experimental open-source attempt to make GPT-4 fully autonomous."
+        },
+        "stars": {
+            "count": 90809,
+            "link": "/Significant-Gravitas/Auto-GPT/stargazers"
+        },
+        "forks": {
+            "count": 13904,
+            "link": "/Significant-Gravitas/Auto-GPT/forks"
+        },
+        "todayStars": 6600,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "Significant-Gravitas / Auto-GPT-Plugins",
+            "owner": "Significant-Gravitas",
+            "name": "Auto-GPT-Plugins",
+            "link": "/Significant-Gravitas/Auto-GPT-Plugins",
+            "description": "Plugins for Auto-GPT"
+        },
+        "stars": {
+            "count": 466,
+            "link": "/Significant-Gravitas/Auto-GPT-Plugins/stargazers"
+        },
+        "forks": {
+            "count": 38,
+            "link": "/Significant-Gravitas/Auto-GPT-Plugins/forks"
+        },
+        "todayStars": 126
+    },
+    {
+        "repo": {
+            "rawName": "facebookresearch / AnimatedDrawings",
+            "owner": "facebookresearch",
+            "name": "AnimatedDrawings",
+            "link": "/facebookresearch/AnimatedDrawings",
+            "description": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\""
+        },
+        "stars": {
+            "count": 5332,
+            "link": "/facebookresearch/AnimatedDrawings/stargazers"
+        },
+        "forks": {
+            "count": 375,
+            "link": "/facebookresearch/AnimatedDrawings/forks"
+        },
+        "todayStars": 596,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "SunWeb3Sec / DeFiHackLabs",
+            "owner": "SunWeb3Sec",
+            "name": "DeFiHackLabs",
+            "link": "/SunWeb3Sec/DeFiHackLabs",
+            "description": "Reproduce DeFi hacked incidents using Foundry."
+        },
+        "stars": {
+            "count": 3096,
+            "link": "/SunWeb3Sec/DeFiHackLabs/stargazers"
+        },
+        "forks": {
+            "count": 566,
+            "link": "/SunWeb3Sec/DeFiHackLabs/forks"
+        },
+        "todayStars": 47,
+        "language": {
+            "is": "Solidity",
+            "color": "#AA6746"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "usememos / memos",
+            "owner": "usememos",
+            "name": "memos",
+            "link": "/usememos/memos",
+            "description": "A lightweight, self-hosted memo hub. Open Source and Free forever."
+        },
+        "stars": {
+            "count": 12748,
+            "link": "/usememos/memos/stargazers"
+        },
+        "forks": {
+            "count": 814,
+            "link": "/usememos/memos/forks"
+        },
+        "todayStars": 71,
+        "language": {
+            "is": "TypeScript",
+            "color": "#3178c6"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "EwingYangs / awesome-open-gpt",
+            "owner": "EwingYangs",
+            "name": "awesome-open-gpt",
+            "link": "/EwingYangs/awesome-open-gpt",
+            "description": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥"
+        },
+        "stars": {
+            "count": 874,
+            "link": "/EwingYangs/awesome-open-gpt/stargazers"
+        },
+        "forks": {
+            "count": 90,
+            "link": "/EwingYangs/awesome-open-gpt/forks"
+        },
+        "todayStars": 173,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "xiaorouji / openwrt-passwall",
+            "owner": "xiaorouji",
+            "name": "openwrt-passwall",
+            "link": "/xiaorouji/openwrt-passwall",
+            "description": "A commonly used proxy toolchain for Openwrt LuCI Application."
+        },
+        "stars": {
+            "count": 4322,
+            "link": "/xiaorouji/openwrt-passwall/stargazers"
+        },
+        "forks": {
+            "count": 2072,
+            "link": "/xiaorouji/openwrt-passwall/forks"
+        },
+        "todayStars": 43,
+        "language": {
+            "is": "C",
+            "color": "#555555"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "dzoba / gptrpg",
+            "owner": "dzoba",
+            "name": "gptrpg",
+            "link": "/dzoba/gptrpg",
+            "description": "A demo of an GPT-based agent existing in an RPG-like environment"
+        },
+        "stars": {
+            "count": 214,
+            "link": "/dzoba/gptrpg/stargazers"
+        },
+        "forks": {
+            "count": 20,
+            "link": "/dzoba/gptrpg/forks"
+        },
+        "todayStars": 28,
+        "language": {
+            "is": "JavaScript",
+            "color": "#f1e05a"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "OpenBB-finance / OpenBBTerminal",
+            "owner": "OpenBB-finance",
+            "name": "OpenBBTerminal",
+            "link": "/OpenBB-finance/OpenBBTerminal",
+            "description": "Investment Research for Everyone, Anywhere."
+        },
+        "stars": {
+            "count": 20804,
+            "link": "/OpenBB-finance/OpenBBTerminal/stargazers"
+        },
+        "forks": {
+            "count": 2092,
+            "link": "/OpenBB-finance/OpenBBTerminal/forks"
+        },
+        "todayStars": 119,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "jdagdelen / hyperDB",
+            "owner": "jdagdelen",
+            "name": "hyperDB",
+            "link": "/jdagdelen/hyperDB",
+            "description": "A hyper-fast local vector database for use with LLM Agents. Now accepting SAFEs at $35M cap."
+        },
+        "stars": {
+            "count": 674,
+            "link": "/jdagdelen/hyperDB/stargazers"
+        },
+        "forks": {
+            "count": 18,
+            "link": "/jdagdelen/hyperDB/forks"
+        },
+        "todayStars": 113,
+        "language": {
+            "is": "Python",
+            "color": "#3572A5"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "mivano / azure-cost-cli",
+            "owner": "mivano",
+            "name": "azure-cost-cli",
+            "link": "/mivano/azure-cost-cli",
+            "description": "CLI tool to perform cost analysis on your Azure subscription"
+        },
+        "stars": {
+            "count": 217,
+            "link": "/mivano/azure-cost-cli/stargazers"
+        },
+        "forks": {
+            "count": 20,
+            "link": "/mivano/azure-cost-cli/forks"
+        },
+        "todayStars": 29,
+        "language": {
+            "is": "C#",
+            "color": "#178600"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "PowerShell / PowerShell",
+            "owner": "PowerShell",
+            "name": "PowerShell",
+            "link": "/PowerShell/PowerShell",
+            "description": "PowerShell for every system!"
+        },
+        "stars": {
+            "count": 38188,
+            "link": "/PowerShell/PowerShell/stargazers"
+        },
+        "forks": {
+            "count": 6488,
+            "link": "/PowerShell/PowerShell/forks"
+        },
+        "todayStars": 90,
+        "language": {
+            "is": "C#",
+            "color": "#178600"
+        }
+    },
+    {
+        "repo": {
+            "rawName": "kw2828 / Dolly-2.0-Series",
+            "owner": "kw2828",
+            "name": "Dolly-2.0-Series",
+            "link": "/kw2828/Dolly-2.0-Series",
+            "description": "Resources for running, fine-tuning, and inferencing Dolly 2.0"
+        },
+        "stars": {
+            "count": 90,
+            "link": "/kw2828/Dolly-2.0-Series/stargazers"
+        },
+        "forks": {
+            "count": 10,
+            "link": "/kw2828/Dolly-2.0-Series/forks"
+        },
+        "todayStars": 13,
+        "language": {
+            "is": "Jupyter Notebook",
+            "color": "#DA5B0B"
+        }
+    }
+]
